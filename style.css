@@ -3,3 +3,6 @@ p{
     font-weight: bolder;
     font-style: italic;
 }
+.red:hover{
+    color: aquamarine;
+}
